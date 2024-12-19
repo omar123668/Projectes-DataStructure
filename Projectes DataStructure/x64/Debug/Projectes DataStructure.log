@@ -1,0 +1,38 @@
+﻿  Projectes DataStructure.cpp
+C:\Users\lenovo\source\repos\Projectes DataStructure\clsString.h(164,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Projectes%20DataStructure.cpp')
+  
+C:\Users\lenovo\source\repos\Projectes DataStructure\clsString.h(264,22): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+  (compiling source file 'Projectes%20DataStructure.cpp')
+  
+C:\Users\lenovo\source\repos\Projectes DataStructure\clsString.h(301,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Projectes%20DataStructure.cpp')
+  
+C:\Users\lenovo\source\repos\Projectes DataStructure\clsString.h(335,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Projectes%20DataStructure.cpp')
+  
+C:\Users\lenovo\source\repos\Projectes DataStructure\clsString.h(361,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Projectes%20DataStructure.cpp')
+  
+C:\Users\lenovo\source\repos\Projectes DataStructure\clsString.h(397,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Projectes%20DataStructure.cpp')
+  
+C:\Users\lenovo\source\repos\Projectes DataStructure\clsString.h(459,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Projectes%20DataStructure.cpp')
+  
+C:\Users\lenovo\source\repos\Projectes DataStructure\clsString.h(483,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Projectes%20DataStructure.cpp')
+  
+C:\Users\lenovo\source\repos\Projectes DataStructure\clsString.h(521,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Projectes%20DataStructure.cpp')
+  
+C:\Users\lenovo\source\repos\Projectes DataStructure\clsString.h(525,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Projectes%20DataStructure.cpp')
+  
+C:\Users\lenovo\source\repos\Projectes DataStructure\clsQueueLine.h(81,24): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Projectes%20DataStructure.cpp')
+  
+C:\Users\lenovo\source\repos\Projectes DataStructure\clsQueueLine.h(151,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Projectes%20DataStructure.cpp')
+  
+  Projectes DataStructure.vcxproj -> C:\Users\lenovo\source\repos\Projectes DataStructure\x64\Debug\Projectes DataStructure.exe
